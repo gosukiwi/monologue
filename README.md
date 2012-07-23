@@ -9,3 +9,5 @@ on JavaScript testing and design patterns.
 running. The blog post is still not finished, but there is
 [a WIP](https://github.com/kjbekkelund/writings/blob/master/understanding-backbone.md)
 on Github.
+
+NOTE: This is a fork, just a simple ASP.NET webservice to test the Javascript out without a server.
